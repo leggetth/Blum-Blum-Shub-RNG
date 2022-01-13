@@ -2,6 +2,7 @@
 # Created with help from:
 # Author: William Stallings
 # Date: 2017
+# Title: Blum Blum Shub RNG
 # Availability: Cryptography and Network Security Principals and Practice Seventh Edition (Pearson Education)
 # Pages: 242-243, 711-712
 
