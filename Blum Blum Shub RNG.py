@@ -57,8 +57,8 @@ class BBS_PRNG():
             ranbits.append(b)
             full_list.append([i, x, b])
 
-            # Updates the state
-            state[1] = x
+        # Updates the state
+        state[1] = x
 
         #Returns the output in for the generation of the random bits and the random bits in a dictionary
         return {'full': full_list, 'rbits': ranbits}
